@@ -1,0 +1,16 @@
+.env
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+*.egg-info/
+data/
+*.tsbuildinfo
+secrets.env
+*.env
+!.env.example
+!secrets.env.example

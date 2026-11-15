@@ -1,0 +1,35 @@
+/* Токены из переменных Figma «iCust — прототип интерфейса» (get_variable_defs, 11.11.2026) */
+:root {
+  /* Цвета */
+  --accent: #3452d6;            /* Акцент/Основной */
+  --accent-light: #eaeefd;      /* Акцент/Светлый */
+  --text: #1e2126;              /* Текст/Основной */
+  --text-secondary: #6a6f78;    /* Текст/Второстепенный */
+  --text-inverse: #ffffff;      /* Текст/Инверсный */
+  --bg-page: #f6f6f3;           /* Фон/Страница */
+  --bg-card: #ffffff;           /* Фон/Карточка */
+  --bg-muted: #efefea;          /* Фон/Приглушённый */
+  --border: #e3e3de;            /* Обводка/Обычная */
+  --green: #1e7a45;             /* Статус/Зелёный */
+  --green-bg: #e4f4ea;
+  --yellow: #9a6400;            /* Статус/Жёлтый */
+  --yellow-bg: #fcf1d8;
+  --red: #b42318;               /* Статус/Красный */
+  --red-bg: #fde8e6;
+  --speaker-respondent: #b4541a; /* Спикер/Респондент */
+
+  /* Типографика (Golos Text) */
+  --font: "Golos Text", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --fs-number: 700 32px/40px var(--font);        /* Число/Крупное */
+  --fs-section: 600 20px/28px var(--font);       /* Заголовок/Раздел */
+  --fs-block: 600 16px/24px var(--font);         /* Заголовок/Блок */
+  --fs-body: 400 14px/22px var(--font);          /* Текст/Основной */
+  --fs-body-strong: 500 14px/22px var(--font);   /* Текст/Основной жирный */
+  --fs-small: 400 12px/18px var(--font);         /* Текст/Мелкий */
+  --fs-small-strong: 500 12px/18px var(--font);  /* Текст/Мелкий жирный */
+  --fs-caps: 600 11px/16px var(--font);          /* Подпись/Капс, letter-spacing 6 % */
+
+  --radius-sm: 8px;
+  --radius: 12px;
+  --sidebar-w: 248px;
+}
